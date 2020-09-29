@@ -8,4 +8,6 @@ Currently, I am working as a Firmware Engineer at Western Digital. Being a full 
 
 
 <!-- Github Stats Card -->
+<!-->
 [![Dushyant's github stats](https://github-readme-stats.vercel.app/api?username=dushyantRathore&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
